@@ -1,0 +1,11 @@
+#page1 {
+    display: block;
+}
+
+#page2 {
+    display: none;
+}
+
+#page1button {
+    border: 1px solid black;
+}
